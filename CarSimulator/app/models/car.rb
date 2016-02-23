@@ -35,7 +35,7 @@ class Car
 
   def accelerate
     if @parking_brake == false
-      @currentSpeed += 10
+      @currentSpeed += 9
     end
   end
 
